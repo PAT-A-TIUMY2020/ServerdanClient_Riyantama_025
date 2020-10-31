@@ -26,8 +26,8 @@ namespace ServerdanClient_Riyantama_025
             {
                 hostObj = new ServiceHost(typeof(Matematika));
                 hostObj.Open();
-                Console.WriteLine("Server is Ready!!!");
-                Console.ReadLine();
+                label2.Text = "Server ON";
+                label3.Text = "Klik OFF untuk mematikan server";
                 hostObj.Close();
             }
             catch (Exception ex)
