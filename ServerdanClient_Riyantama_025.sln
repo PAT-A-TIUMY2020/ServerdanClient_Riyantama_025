@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Riyantama_025", "ServerdanClient_Riyantama_025\Server_Riyantama_025.csproj", "{791517D2-E644-4411-841E-106BD53B0236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Riyantama_025", "Client_Riyantama_025\Client_Riyantama_025.csproj", "{A4566B49-6F2A-4B72-B1D0-A4BD509381BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791517D2-E644-4411-841E-106BD53B0236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791517D2-E644-4411-841E-106BD53B0236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791517D2-E644-4411-841E-106BD53B0236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791517D2-E644-4411-841E-106BD53B0236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4566B49-6F2A-4B72-B1D0-A4BD509381BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4566B49-6F2A-4B72-B1D0-A4BD509381BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4566B49-6F2A-4B72-B1D0-A4BD509381BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4566B49-6F2A-4B72-B1D0-A4BD509381BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810D0C4B-D515-4B8D-B82D-A2459A86A428}
+	EndGlobalSection
+EndGlobal
